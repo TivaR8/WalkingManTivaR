@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\bin\Debug\WalkingManTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\bin\Debug\WalkingManTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\bin\Debug\WalkingManTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\obj\Debug\WalkingManTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\obj\Debug\WalkingManTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\obj\Debug\WalkingManTivaR.frmWalkingMan.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\obj\Debug\WalkingManTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\obj\Debug\WalkingManTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 3 (Decisions)\WalkingManTivaR\WalkingManTivaR\obj\Debug\WalkingManTivaR.pdb
